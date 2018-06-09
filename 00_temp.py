@@ -8,4 +8,3 @@ def isPalindrome(str):
 
 aa = ''
 print isPalindrome(aa)
-
