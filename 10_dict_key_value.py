@@ -12,6 +12,3 @@ student['phone'] = 123456789
 
 print student.get('phone', 'Not Found'), '\n'
 
-
-
-

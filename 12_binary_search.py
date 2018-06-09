@@ -16,3 +16,4 @@ def b_search(ar1, value):
 
 ar1 = [1, 2, 3, 4, 5, 6, 7]
 print b_search(ar1, 5)
+
