@@ -10,3 +10,4 @@ def pal(str1):
 
 
 print pal(str1)
+

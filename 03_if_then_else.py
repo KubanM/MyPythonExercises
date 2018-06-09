@@ -12,3 +12,4 @@ elif a == b and b == c:
     print "This is an Equilateral triangle"
 else:
     print "This is an Isosceles triangle"     
+

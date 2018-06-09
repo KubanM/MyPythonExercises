@@ -17,3 +17,4 @@ def rep_char(dna, x):
 dna = "aaaacccaaagggtttaaacccgggtttgc"
 
 rep_char(dna, 5)
+
